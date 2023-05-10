@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "React Router",
+      "datetime": "july 11, 2021 11:17:36",
+      "body": "React Router enables client side routing.In traditional websites, the browser requests a document from a web server, downloads and evaluates CSS and JavaScript assets, and renders the HTML sent from the server. When the user clicks a link, it starts the process all over again for a new page.Client side routing allows your app to update the URL from a link click without making another request for another document from the server. Instead, your app can immediately render some new UI and make data requests with fetch to update the page with new information.This enables faster user experiences because the browser doesn't need to request an entirely new document or re-evaluate CSS and JavaScript assets for the next page. It also enables more dynamic user experiences with things like animation."
+    },
+    {
+      "id": 2,
+      "title": "Destructuring",
+      "datetime": "May 09, 2023 4:49:07 PM",
+      "body": "To illustrate destructuring, we'll make a sandwich. Do you take everything out of the refrigerator to make your sandwich? No, you only take out the items you would like to use on your sandwich.\n\nDestructuring is exactly the same. We may have an array or object that we are working with, but we only need some of the items contained in these.\n\nDestructuring makes it easy to extract only what is needed."
+    }
+  ]
+}
